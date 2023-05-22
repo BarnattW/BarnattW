@@ -1,7 +1,7 @@
 <h1> Nice to meet you 🧋 </h1>
 <p> I'm Barnatt, an undergraduate student stuyding computer science at Stevens Institute of Technology. <br>
 My goal is to become a full-stack engineer so I've been soaking in as much new technologies and knowledge I can. <br>
-This summer I have planned out a event-driven microservice chat application to develop with a couple of my friends.
+This summer I have planned out an event-driven microservice chat application to develop with a couple of my friends.
 </p>
 
 <p><b>My Story</b><br>
