@@ -1,5 +1,23 @@
 <h1> Nice to meet you 🧋 </h1>
-<p>I'm Barnatt, an undergraduate student stuyding computer science at Stevens Institute of Technology. </p>
+<p> I'm Barnatt, an undergraduate student stuyding computer science at Stevens Institute of Technology. <br>
+My goal is to become a full-stack engineer so I've been soaking in as much new technologies and knowledge I can. <br>
+This summer I have planned out a event-driven microservice chat application to develop with a couple of my friends.
+</p>
+
+<p><b>My Story</b><br>
+During the whole college fiasco, I was conflicted. It was difficult between choosing to studying computer science <br>
+or choosing to pursue my passion in the arts. In hindsight, it wasn't a difficult choice. But I still felt uneasy <br>
+because I did not have the same level of experience in programming as my peers. Over the past few months, I have been <br>
+working hard so that I can reach my goals. 
+</p>
+
+<p><b>The Future</b><br>
+Learning web Dev and software architectures has been a fun chapter, but I want to branch out to other operating systems and mediums, in particular, <br>
+mobile dev, data science, machine learning & AI, as well as game dev. I want to dip my toes in as much fields <br>
+as I can and get a feel for what I enjoy the most. In the near future I will be: <br><br>
+    - Learning machine learning and data science with Python <br>
+    - Learning Kotlin and Andriod Studio for mobile dev
+</p>
 <br>
 
 ## 🖥️ Tech Stack
@@ -14,11 +32,6 @@ Key | Value
 **Tools & Platform**  | [![Git Badge](https://img.shields.io/badge/Git-F9AB00?style=flat&logo=git&color=525252)](https://git-scm.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/) [![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=flat&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Netlify](https://img.shields.io/badge/Netlify-151a1e?style=flat&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&style=flat&logoColor=white)]() [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/) [![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&style=flat&logoColor=white)]()
 **Currently Learning**  | [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&style=flat&logoColor=white)]()
 **Wishlist**  |  [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&style=flat&logoColor=white)]() [![Flutter Badge](https://img.shields.io/badge/Flutter-2bb7f6?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&style=flat&logoColor=white)]() [![ReactNative Badge](	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&style=flat&logoColor=61DAFB)]()
-
-<!--
-[![GCP Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/gcp/)
-[![GTM](https://img.shields.io/badge/GTM-246fdb?style=flat&logo=googletagmanager&logoColor=8ab4f8)](https://tagmanager.google.com/)
--->
 
 ## 📈 Contribution
 
