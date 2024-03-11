@@ -10,9 +10,8 @@ working hard so that I can reach my goals.
 </p>
 
 <p><b>The Future</b><br>
-Learning web Dev and software architectures has been a fun chapter, but I want to branch out to other operating systems and mediums, in particular, <br>
-mobile dev, data science, machine learning & AI, as well as game dev. I want to dip my toes in as much fields <br>
-as I can and get a feel for what I enjoy the most. <br>
+Learning web Dev and software architectures has been a fun chapter, but I want to branch out to other operating systems and mediums, in particular,
+mobile dev, data science, machine learning & AI, as well as game dev. I want to dip my toes in as much fields as I can and get a feel for what I enjoy the most. <br>
 I made a decision recently to pursue game development with Unreal Engine, and I've been focused much of my time and energy towards that goal.
 </p>
 <br>
