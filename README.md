@@ -6,12 +6,12 @@
 During the whole college fiasco, I was conflicted. It was difficult between choosing to studying computer science <br>
 or choosing to pursue my passion in the arts. In hindsight, it wasn't a difficult choice. But I still felt uneasy <br>
 because I did not have the same level of experience in programming as my peers. Over the past few months, I have been <br>
-working hard so that I can reach my goals. 
+working hard so that I can achieve my goals. 
 </p>
 
 <p><b>The Future</b><br>
 Learning web Dev and software architectures has been a fun chapter, but I want to branch out to other operating systems and mediums, in particular,
-mobile dev, data science, machine learning & AI, as well as game dev. I want to dip my toes in as much fields as I can and get a feel for what I enjoy the most. <br>
+machine learning & AI, as well as game dev. I want to dip my toes in as much fields as I can and get a feel for what I enjoy the most. <br>
 I made a decision recently to pursue game development with Unreal Engine, and I've been focused much of my time and energy towards that goal.
 </p>
 <br>
