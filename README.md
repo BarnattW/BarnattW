@@ -11,8 +11,7 @@ working hard so that I can achieve my goals.
 
 <p><b>The Future</b><br>
 Learning web Dev and software architectures has been a fun chapter, but I want to branch out to other operating systems and mediums, in particular,
-machine learning & AI, as well as game dev. I want to dip my toes in as much fields as I can and get a feel for what I enjoy the most. <br>
-I made a decision recently to pursue game development with Unreal Engine, and I've been focused much of my time and energy towards that goal.
+machine learning & AI, as well as game dev. I want to dip my toes in as much fields as I can and get a feel for what I enjoy the most.
 </p>
 <br>
 
