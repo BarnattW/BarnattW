@@ -1,3 +1,5 @@
+<h2> Portfolio site is up: https://barnattwu.com </h2>
+
 <h1> Nice to meet you 🧋 </h1>
 <p> I'm Barnatt, an undergraduate student studying computer science at Stevens Institute of Technology. <br>
 </p>
