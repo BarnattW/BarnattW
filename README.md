@@ -4,7 +4,7 @@ I'm Barnatt, a software engineer. I studied computer science at Stevens Institut
 
 Portfolio: https://barnattwu.com
 
-I mostly enjoy backend and data work. On the side I build small things for myself, like a grid roguelike and an AI coding setup I keep tuning.
+I mostly enjoy backend and full-stack work and applying agents to the things I build. On the side I build small things for myself as well as experiment with cutting edge AI technologies to leverage their capabilities for tools. 
 
 ## 🖥️ Tech Stack
 
